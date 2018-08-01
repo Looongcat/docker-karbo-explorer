@@ -1,0 +1,3 @@
+[submodule "data/karbo-blockchain-explorer"]
+	path = data/karbo-blockchain-explorer
+	url = https://github.com/Karbovanets/Karbowanec-Blockchain-Explorer.git
